@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+# streamlit run main.py
+
+streamlit
+scikit-learn
+pandas
+numpy
+torch
+transformers
