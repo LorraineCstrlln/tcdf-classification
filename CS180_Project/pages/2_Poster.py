@@ -11,4 +11,4 @@ st.markdown("""
 ### Poster Preview
 """)
 
-st.image("DFS_Poster.png", caption="DFS Group TCFD Classification Poster")
+st.image("pages/poster.png", caption="DFS Group TCFD Classification Poster")

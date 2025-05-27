@@ -2,7 +2,7 @@
 
 This project classifies corporate disclosure paragraphs into specific categories under the **Task Force on Climate-related Financial Disclosures (TCFD)** framework using both classical and deep learning models. It supports both **Logistic Regression with TF-IDF** and **BERT Transformers**, allowing users to interactively classify text via a [Streamlit](https://streamlit.io/) web interface.
 
-![TCFD Poster Screenshot](CS180_Project\DFS_Poster.png)
+![TCFD Poster Screenshot](DFS_Poster.png)
 ---
 
 ## What This Project Does
