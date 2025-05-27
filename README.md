@@ -21,7 +21,7 @@ Given a textual paragraph from a corporate disclosure this project predicts its 
 
 ```
 TCFD-CLASSIFICATION/
-├── CS180_Project/
+├── CS180_Project/          # Contains the Streamlit Website
 │ ├── models/
 │ │ ├── bert-tcfd/          # Downloadable fine-tuned BERT model
 │ │ └── logistic-tcfd/      # Downloadable TF-IDF + Logistic Regression model
@@ -182,9 +182,9 @@ _These scripts load `dev.csv`, split data, and output models to `/models/`._
 
 Project by:
 
-- Lorraine Gwen M. Castrillon  
-- Gavril Benedict L. Coronel  
-- Gabriel Inigo De Guzman  
+- Lorraine Gwen M. Castrillon - [LorraineCstrlln](https://github.com/LorraineCstrlln)
+- Gavril Benedict L. Coronel - [gbpursuit](https://github.com/gbpursuit)
+- Gabriel Inigo De Guzman - [Inigo-D120](https://github.com/Inigo-D120)
 
 *(University of the Philippines - Diliman, Department of Computer Science)*
 
