@@ -9,6 +9,6 @@ st.markdown("""
 - Gabriel Inigo De Guzman
 
 ### Poster Preview
-*(Add image here)*
 """)
-# st.image("images/poster.png", caption="TCFD Poster")
+
+st.image("DFS_Poster.png", caption="DFS Group TCFD Classification Poster")

@@ -1,0 +1,44 @@
+# Model files (stored externally on cloud)
+models/bert-tcfd/*
+models/logistic-tcfd/*
+
+!models/bert-tcfd/.gitkeep
+!models/logistic-tcfd/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit cache (optional)
+.streamlit/
+
+# Log files
+*.log
+
+# Output files
+*.zip
+*.csv
+*.txt
+*.pdf
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# PyTorch Lightning or Huggingface cache
+*.ckpt
+*.onnx
+*.h5
